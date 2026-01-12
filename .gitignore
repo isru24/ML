@@ -2,15 +2,13 @@
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual environments
 venv/
 .env/
 
-# Datasets
+# Data & models
 *.csv
-
-# Trained models
 *.pkl
 
-# OS
+# OS files
 .DS_Store
